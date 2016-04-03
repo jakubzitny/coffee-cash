@@ -1,6 +1,6 @@
 {
-  "name": "coffee-cash",
-  "version": "0.10.0",
+  "name": "@avocode/coffee-cash",
+  "version": "0.10.1",
   "description": "CoffeeScript compile cache",
   "main": "./lib/coffee-cash",
   "scripts": {
